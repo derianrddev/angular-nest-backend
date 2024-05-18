@@ -6,6 +6,9 @@
 # DB
 mongo/
 
+# Environments
+.env
+
 # Logs
 logs
 *.log
