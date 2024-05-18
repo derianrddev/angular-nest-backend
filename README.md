@@ -10,8 +10,8 @@ This project is the backend for an authentication application, designed to handl
 
 Ensure you have the following installed on your system:
 
-- Docker
-- Docker Compose
+- [Docker Desktop](https://www.docker.com/get-started/)
+- [Mongo Compass](https://www.mongodb.com/try/download/compass)
 
 ### Setup
 
